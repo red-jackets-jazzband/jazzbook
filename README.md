@@ -1,6 +1,7 @@
 # jazzbook
-Collection of various resources
+[![Documentation Status](https://readthedocs.org/projects/jazzbook/badge/?version=latest)](https://jazzbook.readthedocs.io/en/latest/?badge=latest)
 
+Collection of various resources, only usefull for the Red Jackets Jazzband.
 
 ## Setup
 
