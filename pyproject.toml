@@ -1,0 +1,8 @@
+[project]
+dependencies = [
+  'sphinx',
+  'sphinx-book-theme'
+
+]
+name = "Jazzbook"
+version = "0.0.1"
