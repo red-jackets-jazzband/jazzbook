@@ -60,7 +60,10 @@ Circle of fifths
 ----------------
 
 The circle of fifths is a visual representation of the relationships between the 12 tones of the chromatic scale and the key signatures used in Western music.
- It is called the "circle of fifths" because it arranges the key signatures in a circular fashion, with each key signature a perfect fifth away from the next.
+It is called the "circle of fifths" because it arranges the key signatures in a circular fashion, with each key signature a perfect fifth away from the next.
+
+.. image:: images/circle_of_fifths.jpg
+    :align: center
 
 The circle of fifths can be used to understand the relationships between different keys and to easily move between them. Starting from the top of the circle
 and moving clockwise, each key signature is a perfect fifth higher than the one before it. For example, the key of C is a perfect fifth higher than the key
@@ -75,7 +78,6 @@ and the number of sharps or flats in each key signature.
 
 Hoever there is more use as described by [FOR2022]_.
 
-.. image:: images/circle_of_fifths.jpg
 
 References
 ----------
