@@ -23,6 +23,11 @@ tool for musicians to communicate and play music together, and are an important 
 
 For our band we've created leadsheets for the songs we play at https://www.redjackets.nl/songs/.
 
+Some other great resources are:
+
+* `Lasse Collin - C-Jam New Orleans Jambook <http://cjam.lassecollin.se/>`_
+* `Creole Jazzband Fakebook <https://www.simplyearlyjazz.com/store/p92/Creole_Jazz_Band_Fake_Book_2022_Version.html>`_
+
 The Jazz Default
 ----------------
 
