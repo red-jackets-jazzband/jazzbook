@@ -9,6 +9,8 @@ Jazzbook
    notation
    drum
    chords
+   comping
+   song-structure
    resources
 
 New Orleans is a city with a rich and vibrant musical tradition, and one of the most iconic elements of this tradition is

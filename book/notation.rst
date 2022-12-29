@@ -41,6 +41,8 @@ As mentioned in the post *Jazz Notation- The Default* [DEB2014]_ , there are som
 * If the dynamic is forte or more, the notes will be played with accents
 * The length of the lead trumpet note is proportional to its height.
 
+References
+----------
+
 .. [DEB2014] Davies, T. (2014) Jazz Notation - The Default,
    timusic.net - Debreved. Available at: https://www.timusic.net/debreved/jazz-notation/ (Accessed: December 29, 2022).
-
