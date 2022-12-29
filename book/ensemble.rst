@@ -11,6 +11,8 @@ to one another is a crucial part of the jazz tradition. By understanding the way
 New Orleans jazz band play together, we can better appreciate the collaborative and improvisational nature of this
 exciting and vibrant musical style.
 
+.. youtube:: EadpcjMB_2s
+
 Instrument Roles
 ----------------
 
