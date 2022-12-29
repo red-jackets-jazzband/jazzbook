@@ -20,6 +20,7 @@ Progressions
 There is a great YouTube video describing several Jazz Chord Progressions [PIA2021]_.
 
 .. youtube:: -4JR00GY3PA
+    :width: 100%
 
 It names these progressions:
 
@@ -32,6 +33,10 @@ It names these progressions:
 * Chromatic Walkup: ``I - #Idim7 - IIm7 - #IIdim7``
 * Blues Progression ``I - IV - I - I - IV - IV - I - I - V - IV - I - V``
 
+.. index::
+   single: Tonic
+   single: Dominant
+   single: Subdominant
 
 Harmonic functions
 ------------------
@@ -56,6 +61,9 @@ They help to define the relationships between different chords and create a sens
 
 See [HUT2017]_ for more information.
 
+.. index::
+   single: Circle of Fifths
+
 Circle of fifths
 ----------------
 
@@ -64,6 +72,7 @@ It is called the "circle of fifths" because it arranges the key signatures in a 
 
 .. image:: images/circle_of_fifths.jpg
     :align: center
+    :width: 80%
 
 The circle of fifths can be used to understand the relationships between different keys and to easily move between them. Starting from the top of the circle
 and moving clockwise, each key signature is a perfect fifth higher than the one before it. For example, the key of C is a perfect fifth higher than the key
@@ -76,7 +85,7 @@ The circle of fifths is an important tool for musicians and music theorists, as 
 intervals between them. It is also useful for transposing music, or moving it to a different key, as it shows the relationships between the different keys
 and the number of sharps or flats in each key signature.
 
-Hoever there is more use as described by [FOR2022]_.
+However there is more use as described by [FOR2022]_.
 
 
 References

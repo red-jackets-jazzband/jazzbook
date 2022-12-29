@@ -1,3 +1,7 @@
+.. index::
+   single: Riffs
+   single: Comping
+
 Comping
 =======
 
@@ -19,6 +23,9 @@ that musicians can manipulate rhythm to create a wide range of musical effects. 
 their audience engaged and create a more engaging listening experience. In the following pages, we will delve into the various techniques and approaches
 that musicians can use to add rhythmic interest to their music.
 
+.. index::
+   single: Stop-time
+
 Stop-time
 `````````
 
@@ -28,6 +35,9 @@ To create a stop-time chorus, the band may drop out for a brief moment, leaving 
 continue to improvise through the stop-time section, showcasing their skills. After a short period of time, the band may come back in and
 resume the accompaniment, providing a sense of release and resolution. While it is possible for a stop-time chorus to involve playing only on
 the first beat of a measure, this is not necessarily the case, and there are many different ways that a stop-time chorus can be structured."
+
+.. index::
+   single: Charleston
 
 Charleston beat
 ```````````````
@@ -58,7 +68,7 @@ Four-feel
 `````````
 
 
-Further resources
------------------
+Resources
+---------
 
 * Walsh, J. (2021, December 7). Jazz Comping - A Complete Beginners Guide. Jazz-Library.com. Retrieved December 29, 2022, from https://jazz-library.com/articles/comping/

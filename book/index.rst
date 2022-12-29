@@ -4,6 +4,8 @@ Jazzbook
 .. toctree::
    :maxdepth: 2
    :caption: Chapters:
+   :numbered:
+   :hidden:
 
    ensemble
    notation
@@ -12,6 +14,10 @@ Jazzbook
    comping
    song-structure
    resources
+
+   genindex
+
+.. warning:: This was made for internal consumption, any usefullness outside our jazzband is unintended!
 
 New Orleans is a city with a rich and vibrant musical tradition, and one of the most iconic elements of this tradition is
 the street jazz band. Street jazz bands in New Orleans are a lively and energetic part of the city's culture, and can be

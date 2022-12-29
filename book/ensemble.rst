@@ -12,6 +12,7 @@ New Orleans jazz band play together, we can better appreciate the collaborative 
 exciting and vibrant musical style.
 
 .. youtube:: EadpcjMB_2s
+    :width: 100%
 
 Instrument Roles
 ----------------
@@ -23,6 +24,9 @@ together to create the distinct and vibrant sound of this iconic music. From the
 of the trumpet and saxophone, each instrument brings its own unique voice and character to the music.
 By understanding the roles of the various instruments in a traditional New Orleans jazz band, we can better appreciate the complexity
 and depth of this dynamic and enduring musical tradition
+
+.. index::
+   single: Front line
 
 Front line
 ``````````
@@ -41,6 +45,7 @@ preferences of the individual musicians. Second line music is an improvisational
 freedom to add their own personal touch and style to the music.
 
 .. youtube:: mNbjwpteBaU
+    :width: 100%
 
 Lead Trumpet
 ~~~~~~~~~~~~
@@ -49,8 +54,10 @@ In a traditional New Orleans jazz band, the lead trumpet typically plays a melod
 The lead trumpet is usually the most prominent and visible member of the front line, and is responsible for setting the overall tone and direction of the music.
 
 .. youtube:: UKFvaw15hf4
+    :width: 100%
 
 .. youtube:: azH4lfTiKX4
+    :width: 100%
 
 Clarinet
 ~~~~~~~~
@@ -61,6 +68,7 @@ trombone, drums, bass, and piano. In addition to playing melodies, the clarinet 
 passages. The clarinet's unique timbre and ability to play over a wide range of pitches make it an essential part of the New Orleans jazz sound.
 
 .. youtube:: ABOmxdeFdrE
+    :width: 100%
 
 There are many different ways that a clarinet player might create embellishments in their playing. For example, they might add grace notes, ornamental passages,
 or trills to a melody, or they might use techniques such as vibrato, glissando, or bends to add expression and character to their playing.
@@ -72,6 +80,7 @@ or trills to a melody, or they might use techniques such as vibrato, glissando, 
 - *Legato*: This is a technique in which the player plays smoothly connected notes, often used to create a more flowing, smooth sound.
 
 .. youtube:: PESvPMiSsAI
+    :width: 100%
 
 
 Trombone
@@ -81,15 +90,20 @@ In a traditional New Orleans jazz band, the trombone typically plays a supportin
 The trombone can play both melody and accompaniment, and is often featured alongside other instruments such as trumpet, clarinet, drums, bass, and piano.
 
 .. youtube:: f-g06iwPGZ8
+    :width: 100%
 
 The trombone's unique sound and wide range make it an important part of the New Orleans jazz sound. The trombone can play both high and low notes,
 and can produce a wide variety of timbres depending on the player's technique. The trombone is also capable of playing with a great deal of expression,
 and can be used to add depth and complexity to the music.
 
 .. youtube:: fetfR1R79ns
+    :width: 100%
 
 In addition to playing melodies and accompaniment, the trombone may also play countermelodies and fill in with ornamental passages.
 The specific role of the trombone in a traditional New Orleans jazz band will depend on the style of the music and the preferences of the individual player.
+
+.. index::
+   single: Rhytm section
 
 Rhytm section
 `````````````
@@ -103,6 +117,7 @@ harmonic support of the bass and piano, the rhythm section is an integral part o
 the overall sound and feel of the music.
 
 .. youtube:: fT4H2xEE9NM
+    :width: 100%
 
 In New Orleans jazz, "comping" refers to the accompaniment provided by the rhythm section, which typically consists of a piano, bass, and drums.
 The term *comping* comes from the word "accompany," and it refers to the way the rhythm section provides support and musical backing for the lead
@@ -123,12 +138,20 @@ The banjo is often used in combination with other instruments such as drums, bas
 of the band to build upon.
 
 .. youtube:: RVlye-GJHVc
+    :width: 100%
 
 The banjo's bright, percussive sound and fast, fluid playing style make it an ideal instrument for creating the rhythmic drive that
 is characteristic of traditional New Orleans jazz. The banjo player may also contribute to the overall melody and harmony of the
 music by playing chordal accompaniment and fill-in passages.
 
 .. youtube:: ZR6THh85k-Q
+    :width: 100%
+
+.. index::
+   single: Washboard
+   single: Frottoir
+   single: rub-board
+   single: scrub-board
 
 Washboard
 ~~~~~~~~~
@@ -142,6 +165,11 @@ scraping to create different sounds and rhythms. The washboard can also be playe
 to create a variety of percussive effects.
 
 .. youtube:: 6mjIHNGEf5g
+    :width: 100%
+
+.. index::
+   single: Sousaphone
+   single: Tuba
 
 Sousaphone
 ~~~~~~~~~~
@@ -160,6 +188,10 @@ In a traditional New Orleans jazz band, the snare drum is a percussion instrumen
 The snare drum is a high-pitched drum that is played with sticks, and has a distinctive sound produced by the snares (a series of metal wires stretched across the bottom head of the drum).
 
 .. youtube:: KvqojpI9O4s
+    :width: 100%
+
+.. youtube:: EO4FIjpi1Bw
+    :width: 100%
 
 The snare drum is typically played with a combination of steady, driving rhythms and intricate, ornamental patterns. There are many different techniques that a snare drummer might use
 in a traditional New Orleans jazz band. Some of these techniques include:
@@ -178,6 +210,7 @@ In a traditional New Orleans jazz band, the bass drum is a percussion instrument
 The bass drum is a large, low-pitched drum  that is typically played with a pedal, and is used to create a steady, driving pulse for the music.
 
 .. youtube:: wHcVqsZDShs
+    :width: 100%
 
 The bass drum player may use various techniques to create different rhythms and timbres, such as playing single or double strokes,
 or using muffling techniques to change the sound of the drum. The bass drum is often played in combination with other percussion instruments
