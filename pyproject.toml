@@ -1,8 +1,8 @@
 [project]
 dependencies = [
   'sphinx',
-  'sphinx-book-theme'
-
+  'sphinx-book-theme',
+  'sphinxcontrib.youtube'
 ]
 name = "Jazzbook"
 version = "0.0.1"

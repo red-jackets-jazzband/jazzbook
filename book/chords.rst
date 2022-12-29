@@ -8,6 +8,8 @@ Progressions
 
 There is a great YouTUbe video describing several Jazz Chord Progressions [PIA2021]_.
 
+.. youtube:: -4JR00GY3PA
+
 It names these progressions:
 
 * Turnaround Progression
