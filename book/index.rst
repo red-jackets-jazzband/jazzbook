@@ -3,7 +3,7 @@ Jazzbook
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Chapters:
 
    ensemble
    notation
