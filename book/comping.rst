@@ -67,6 +67,33 @@ Two-Feel
 Four-feel
 `````````
 
+Choosing riff notes
+-------------------
+
+Harmonizing with other players in a New Orleans brass band is an essential aspect of the genre's rich and vibrant sound.
+Choosing the right notes to blend with those of your fellow musicians can make all the difference in creating a cohesive
+and dynamic performance. In this chapter, we will explore some of the key considerations for selecting harmonizing notes,
+including the role of the melody, the use of chord progressions, and the importance of listening to and reacting to the
+other players in the band. By understanding these principles and applying them in your own playing, you will be able to
+add depth and complexity to your brass band's sound and bring your performances to new heights.
+
+One of the most important considerations when harmonizing in a brass band is the melody. As a harmonizing instrument,
+it is important to support and enhance the melody rather than compete with it or distract from it. When selecting
+harmonizing notes, try to choose ones that complement and add interest to the melody rather than drawing too much
+attention to themselves.
+
+Chord progressions can also be a useful tool for choosing harmonizing notes. By understanding the chord structure
+of a song, you can choose notes that fit within the underlying harmonies and help to create a cohesive sound. Paying
+attention to the other instruments in the band and the roles they play in the chord progression can also help you
+choose appropriate harmonizing notes.
+
+In addition to these musical considerations, it is important to listen to and react to the other players in the band.
+In a brass band, each instrument plays a unique role and contributes to the overall sound. By listening to the other
+players and adjusting your own playing accordingly, you can help create a cohesive and dynamic performance.
+
+Finally, don't be afraid to experiment and try out different harmonizing approaches. The beauty of brass band music
+is its flexibility and room for individual expression. By trying out different approaches and finding what works best
+for you and your bandmates, you can help bring your performances to new heights.
 
 Resources
 ---------
