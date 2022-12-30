@@ -6,15 +6,20 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import os
+import sys
+
 project = 'Jazzbook'
 copyright = '2022, Red Jackets Jazzband'
 author = 'Red Jackets Jazzband'
 release = '0.0.1'
 
+sys.path.append(os.path.abspath("./_ext"))
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["sphinxcontrib.youtube"]
+extensions = ["sphinxcontrib.youtube", "abcnotation"]
 
 templates_path = ['_templates']
 exclude_patterns = []

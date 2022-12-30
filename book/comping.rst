@@ -25,36 +25,30 @@ that musicians can use to add rhythmic interest to their music.
 
 Some different rhytmic variations used:
 
-.. raw:: html
+.. abcnotation::
 
-  <div id="paper"></div>
-  <script type="text/javascript">
-    var abc = "X:1\n"+
-              "T:Riffs\n"+
-              "M:C\n"+
-              "L:1/8\n"+
-              "V:p1 perc stafflines=1 m=B stem=up\n"+
-              "K:C\n"+
-              "[|:z2 B2 z2 B2 | B z z B-B4:|]\n"+
-              "[|:B8- | B6 z2 :|]\n"+
-              "[|:Bzz B-B2 z2 | BBAB z4 :|]\n"+
-              "[|:z2 B z z B z2 | B zz B- Bc A z :|]\n"+
-              "[|:z2 B z AB2A | BBAB z4 :|]\n"+
-              "[|:B z z B-B4 | B zz B-B4 :|]\n"+
-              "[|:BB z2 z4 | BB z B z B3 :|]\n"+
-              "[|:B8-|B8:|]\n"+
-              "[|:B8 | A zz A z4 :|]\n"+
-              "[|:BA z2 cA z2 | c3 A z4 :|]\n"+
-              "[|:BBz2 BB z2 | B z cA z4 :|]\n"+
-              "[|:BB AA BB AA | B z z B-B4 :|]\n"+
-              "[|:BB AB cB AB | A z z B-B4 :|]\n"+
-              "[|:BA z A-B4 | dA z A-B4 :|]\n"+
-              "[|:BA z c-B4 | BA z c z B3 :|]\n"+
-              "[|:z2B z z B z2 | B z z c-c3 B:|]\n"
-
-    ABCJS.renderAbc("paper", abc);
-
-  </script>
+      X:1
+      T:Riffs
+      M:C
+      L:1/8
+      V:p1 perc stafflines=1 m=B stem=up
+      K:C
+      [|:z2 B2 z2 B2 | B z z B-B4:|]
+      [|:B8- | B6 z2 :|]
+      [|:Bzz B-B2 z2 | BBAB z4 :|]
+      [|:z2 B z z B z2 | B zz B- Bc A z :|]
+      [|:z2 B z AB2A | BBAB z4 :|]
+      [|:B z z B-B4 | B zz B-B4 :|]
+      [|:BB z2 z4 | BB z B z B3 :|]
+      [|:B8-|B8:|]
+      [|:B8 | A zz A z4 :|]
+      [|:BA z2 cA z2 | c3 A z4 :|]
+      [|:BBz2 BB z2 | B z cA z4 :|]
+      [|:BB AA BB AA | B z z B-B4 :|]
+      [|:BB AB cB AB | A z z B-B4 :|]
+      [|:BA z A-B4 | dA z A-B4 :|]
+      [|:BA z c-B4 | BA z c z B3 :|]
+      [|:z2B z z B z2 | B z z c-c3 B:|]
 
 
 .. index::
