@@ -61,6 +61,9 @@ They help to define the relationships between different chords and create a sens
 
 See [HUT2017]_ for more information.
 
+.. youtube:: WOMkVNHvdWs
+  :width: 100%
+
 .. index::
    single: Circle of Fifths
 

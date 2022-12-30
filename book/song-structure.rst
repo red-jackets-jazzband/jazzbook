@@ -21,7 +21,7 @@ The simple structure typically is:
 * Intro
 * Collective chorus with clear statement of the melody by the lead
 * Another collective chorus with a more loose interpretation
-* Several solo's
+* Several solo's (sometimes interleaved by a chorus)
 * One or more collective choruses
 * An ending/outro
 
@@ -76,7 +76,7 @@ The solos are often played by the lead instrument, such as the trumpet or saxoph
 and improvise solos during the chorus of the song. However, solos can also be played by other instruments, such as the piano or guitar.
 
 During a solo, the rest of the band typically continues to play a steady pulse or groove to support the soloist. The other musicians may also play
-countermelodies or harmonies to add depth and complexity to the music. See the section `Comping`_ for more details.
+countermelodies or harmonies to add depth and complexity to the music. See the section Comping for more details.
 
 Solos are an important part of a New Orleans jazz performance, as they allow the musicians to showcase their skills and add their own unique flair
 to the music. Solos can be short or long, depending on the song and the style of the performance. Some solos may be highly structured and planned out
@@ -97,8 +97,24 @@ This can be an effective way to bring the music to a dramatic close and create a
 the trumpet may use is a cadence, which is a specific melody or chord progression that is played to signal the end of the song. Cadences
 are often used to give the music a sense of structure and form, and they can be very effective at creating a sense of resolution at the end of a song.
 
+Eric Kelso describes several endings in the below video:
+
+.. youtube:: 68TEmPzMj7Q
+    :width: 100%
+
 Straight out
 ````````````
+Straight out ending is ending in the last bar of the regular progression, optionally with a hold. as Eric describes a hold should be done by multiple players.
 
-King Oliver ending
-``````````````````
+Double ending
+`````````````
+Also known as King Oliver ending. This is adding two additional bars of the Tonic (I) chord or combination of the Tonic (I) and the Dominant (V).
+This can be signalled by double stomping on the floor by the lead.
+
+Turnaround ending
+`````````````````
+Also known as *Sweet Mama* Ending, This adds four bars with respectivly the `VI - ii - V - I`
+
+Drum ending
+```````````
+Add four bars of drum solo and end with another 4 bars typically using the `ii - V - I - I`
