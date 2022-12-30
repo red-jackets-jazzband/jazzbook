@@ -33,3 +33,6 @@ html_theme_options = {
     'home_page_in_toc': True,
     'toc_title': 'Chapters'
 }
+html_js_files = [
+    'scripts/abcjs-basic-min.js'
+]
