@@ -30,14 +30,17 @@ Intro
 
 The intro of a traditional New Orleans jazz song is typically a short, upbeat musical introduction that sets the stage for the rest of the piece.
 It may include a musical introduction played by the band, a four-bar or eight-bar intro, a vamp, or a count-in.
-BUt the most traditional intro for brassband music is the Roll-off.
+But the most traditional intro for brassband music is the Roll-off.
 
 Roll-off
 ````````
-Traditional New-Orleans brass band Roll-off.
+In this video, Shannon Powell, a renowned New Orleans drummer, demonstrates the traditional roll-off technique as played by snare drummers in a street
+parade. Powell is a master of the New Orleans drumming style and has a deep understanding of the techniques and traditions of the city's drummers.
+This video is an excerpt from the wonderfull Preservation Hall Foundation Lessons.
 
 .. youtube:: u8g8V_1WcpQ
     :width: 100%
+    :url_parameters: ?start=5&end=51
 
 Short intro
 ```````````

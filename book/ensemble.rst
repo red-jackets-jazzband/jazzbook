@@ -130,6 +130,15 @@ that support the overall feel of the music.
 Comping is an important part of New Orleans jazz, as it helps to create a cohesive sound and provides a solid foundation for the soloists to build
 upon. It is also an opportunity for the rhythm section to be creative and add their own musical ideas to the music.
 
+In this lecture at Harvard, Wynton Marsalis, a renowned jazz musician and educator, explains how the rhythm section swings. Marsalis is a master of
+the jazz idiom and has a deep understanding of the role of the rhythm section in creating a swinging groove.
+
+During his lecture, Marsalis breaks down the elements of the rhythm section and illustrates how they work together to create the characteristic swing
+feel of jazz music. He discusses the interplay between the drums, bass, and piano, and how each musician contributes to the overall groove.
+
+.. youtube:: THtVFuAap-c
+    :width: 100%
+
 Banjo
 ~~~~~
 

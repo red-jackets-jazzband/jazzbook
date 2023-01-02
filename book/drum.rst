@@ -31,7 +31,7 @@ laid-back, groovy feel. It can be found in a variety of jazz and blues styles, i
 
 
 .. youtube:: geze6A1p3Ww
-    :url_parameters: ?t=118s
+    :url_parameters: ?start=118
     :width: 100%
 
 .. index::
@@ -80,9 +80,26 @@ Back Beat
 Traditional Beat
 ~~~~~~~~~~~~~~~~
 
+The Rebirth Brass Band is a New Orleans-based ensemble that has achieved international acclaim for their high-energy performances and infectious brass sound.
+In this drum workshop, Keith Frazier and Derrick Tabb, two of the band's drummers, will provide an introduction to the traditional New Orleans beat.
+
+As members of the Rebirth Brass Band, Frazier and Tabb are deeply steeped in the musical traditions of their city.
+They bring a wealth of knowledge and experience to this workshop.
+
 .. youtube:: PyvqGQLNcNU
     :width: 100%
-    :url_parameters: ?t=314
+    :url_parameters: ?start=303&end=350&rel=0
+
+
+During the Jazz Congress 2021 Masterclass: New Orleans Drumming with Herlin Riley. He, a native of New Orleans and a master of the city's unique rhythmic style,
+led participants on a journey into the heart of the New Orleans drumming tradition.
+
+During the masterclass, Riley provided a comprehensive overview of the techniques and principles that define the New Orleans beat.
+He demonstrated the  rhythms and syncopations, and provided a great backstory about about his life.
+
+.. youtube:: GrGchPAQ9Hw
+    :width: 100%
+    :url_parameters: ?start=2405&end=2674&rel=0
 
 Swing beat
 ~~~~~~~~~~
@@ -96,6 +113,16 @@ played on the second and fourth beats of the measure. The Latin beat is often us
 
 Resources
 ---------
+
+In this video from the 1980s, Johnny Vidacovich and Herlin Riley sit down for interviews about their approach to New Orleans style drumming.
+As two of the city's most respected drummers, their insights and experiences provide a unique window into the world of New Orleans music.
+
+Vidacovich and Riley discuss the rhythms and beats that define the New Orleans sound, and share their tips and techniques for mastering
+this style. They talk about the importance of groove and feel, and the role of the drummer in a New Orleans band.
+
+These interviews offer a rare opportunity to hear from two of the masters of New Orleans drumming, and provide valuable insight for
+drummers and music enthusiasts alike. If you're interested in the music of New Orleans, or just want to learn more about drumming,
+this video is a must-see.
 
 .. youtube:: isLJoc2MV9U
     :width: 100%

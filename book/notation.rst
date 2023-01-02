@@ -41,8 +41,20 @@ As mentioned in the post *Jazz Notation- The Default* [DEB2014]_ , there are som
 * If the dynamic is forte or more, the notes will be played with accents
 * The length of the lead trumpet note is proportional to its height.
 
+Swing Eight notes
+`````````````````
+Although the notes are written *straight* they should be played with a swung feel.
+This should not be completely swung. See the drum chapter for more information.
+
+There is a nice article [DOL2013]_ which provides a comprehensive survey of the use of second line rhythms in jazz, rhythm and blues, and funk music.
+Through a detailed analysis of two musical examples, the article illustrates the varied and creative ways in which second line rhythms have been employed by musicians across these genres.
+But especially the analysis of the swing gives some insight.
+
 References
 ----------
 
 .. [DEB2014] Davies, T. (2014) Jazz Notation - The Default,
    timusic.net - Debreved. Available at: https://www.timusic.net/debreved/jazz-notation/ (Accessed: December 29, 2022).
+
+.. [DOL2013] Doleac, B. (2013) Strictly Second Line: Funk, Jazz, and the New Orleans Beat,
+   Ethnomusicology Review. UCLA. Available at: https://ethnomusicologyreview.ucla.edu/journal/volume/18/piece/699 (Accessed: January 2, 2023).
