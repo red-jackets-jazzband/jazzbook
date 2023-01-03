@@ -224,3 +224,9 @@ The bass drum is a large, low-pitched drum  that is typically played with a peda
 The bass drum player may use various techniques to create different rhythms and timbres, such as playing single or double strokes,
 or using muffling techniques to change the sound of the drum. The bass drum is often played in combination with other percussion instruments
 such as the snare drum and cymbals to create a full, rhythmic sound.
+
+Resources
+---------
+
+.. youtube:: Fw33n2Mpqfk
+    :width: 100%
