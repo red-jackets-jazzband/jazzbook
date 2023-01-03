@@ -14,6 +14,14 @@ exciting and vibrant musical style.
 .. youtube:: EadpcjMB_2s
     :width: 100%
 
+In this video a description is given about barbershop singing and its influence on the birth of jazz in New Orleans. Many people may not realize it,
+but barbershop quartets were a precursor to the legendary jazz music that originated in the Crescent City. Some of the most well-known names in jazz,
+such as Louis Armstrong and Buddy Bolden, got their start singing in barbershop quartets. In this video, it is explored how barbershop singing paved 
+the way for the development of jazz in New Orleans.
+
+.. youtube:: MeXroNNkeXw
+   :width: 100%
+
 Instrument Roles
 ----------------
 
