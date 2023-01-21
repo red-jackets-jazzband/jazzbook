@@ -37,6 +37,28 @@ laid-back, groovy feel. It can be found in a variety of jazz and blues styles, i
 .. index::
    single: Shimmy beat
 
+Roll-off
+~~~~~~~~
+n this chapter, we will take a closer look at the traditional roll-off, a drumming technique that has played
+an integral role in shaping the sound of New Orleans brass bands. To give you a better understanding of the
+roll-off, we will be showing a video of a New Orleans brass band performing the technique, along with a small
+transcription of the drumming pattern. This will give you a sense of the rhythm and energy that defines the
+roll-off, and how it adds to the overall sound of the brass band.
+
+.. abcnotation::
+
+    X:1
+    T:Traditional Roll-off
+    M:C
+    L:1/8
+    V:p1 perc stafflines=1 m=C stem=up
+    K:C
+    ~C3 C C4 | ~C3 C C4 | ~C3 C (3 C2C2C2 | C3 C C4 ||  ~C3 C C4 | ~C3 C C4 | ~C4 ~C4- | C2 z2 z4 ||
+
+.. youtube:: u8g8V_1WcpQ
+    :url_parameters: ?end=50
+    :width: 100%
+
 Shimmy beat
 ~~~~~~~~~~~
 The shimmy beat is a rhythmic pattern that was popularized by New Orleans drummer Baby Dodds, who was a key figure in the early jazz tradition.
